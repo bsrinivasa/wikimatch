@@ -1,5 +1,5 @@
 /*
-Queries Overpass for OSM features. See query.ql for the query. Radius is in kilometers. Returns results as CSV.
+Queries Overpass for OSM features. See query.overpassql for the query. Radius is in kilometers. Returns results as CSV.
 */
 
 var overpass = require('query-overpass');

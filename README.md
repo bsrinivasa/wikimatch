@@ -32,7 +32,7 @@ batch-match.js uses the following pieces:
 
 #### query-overpass.js
 
-Queries Overpass for OSM features (cities) around a particular coordinate. See query.ql for the query. Returns results as CSV.
+Queries Overpass for OSM features (cities) around a particular coordinate. See `query.overpassql` for the query. Returns results as CSV.
 
 #### query-wikidata.js
 
